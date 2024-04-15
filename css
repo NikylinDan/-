@@ -1,0 +1,42 @@
+body{
+background-image: url("https://avatars.mds.yandex.net/i?id=a3ca2fe3d8e50c21eae3294677e055e3be3c5935-12912407-images-thumbs&n=13");
+background-position: center;
+background-size: cover;
+height: auto;
+width: auto;
+}
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 200px; 
+  height: auto;
+}
+table {
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+ color: rgba(10, 12, 11, 0.966);
+ border-collapse: separate;
+ border-spacing: 5px 5px;
+ empty-cells: hide;
+}
+td,
+th {
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -khtml-border-radius: 10px;
+width: 200px; 
+height: auto;
+font-weight:700;
+text-align: center;
+border: 3px solid rgb(26, 7, 7);
+background: linear-gradient(rgb(59, 192, 54),rgb(37, 121, 34));
+}
+ol, ul{
+  text-align: left
+}
